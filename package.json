@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "gatsby": "^2.19.7",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.40",
     "gatsby-plugin-sharp": "^2.4.5",
     "gatsby-source-filesystem": "^2.1.48",
